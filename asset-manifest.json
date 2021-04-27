@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://ntunah.github.io/csb-8wxkd/static/css/main.8158f633.chunk.css",
+    "main.js": "https://ntunah.github.io/csb-8wxkd/static/js/main.91cab222.chunk.js",
+    "main.js.map": "https://ntunah.github.io/csb-8wxkd/static/js/main.91cab222.chunk.js.map",
+    "runtime-main.js": "https://ntunah.github.io/csb-8wxkd/static/js/runtime-main.6e5eab12.js",
+    "runtime-main.js.map": "https://ntunah.github.io/csb-8wxkd/static/js/runtime-main.6e5eab12.js.map",
+    "static/css/2.06382735.chunk.css": "https://ntunah.github.io/csb-8wxkd/static/css/2.06382735.chunk.css",
+    "static/js/2.0b21a567.chunk.js": "https://ntunah.github.io/csb-8wxkd/static/js/2.0b21a567.chunk.js",
+    "static/js/2.0b21a567.chunk.js.map": "https://ntunah.github.io/csb-8wxkd/static/js/2.0b21a567.chunk.js.map",
+    "index.html": "https://ntunah.github.io/csb-8wxkd/index.html",
+    "static/css/2.06382735.chunk.css.map": "https://ntunah.github.io/csb-8wxkd/static/css/2.06382735.chunk.css.map",
+    "static/css/main.8158f633.chunk.css.map": "https://ntunah.github.io/csb-8wxkd/static/css/main.8158f633.chunk.css.map",
+    "static/js/2.0b21a567.chunk.js.LICENSE.txt": "https://ntunah.github.io/csb-8wxkd/static/js/2.0b21a567.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e5eab12.js",
+    "static/css/2.06382735.chunk.css",
+    "static/js/2.0b21a567.chunk.js",
+    "static/css/main.8158f633.chunk.css",
+    "static/js/main.91cab222.chunk.js"
+  ]
+}
